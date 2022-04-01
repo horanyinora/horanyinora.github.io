@@ -934,6 +934,10 @@ ul.timeline li .data .text {
 
 /* Gallery
  **************************************************/
+.masters_videos {
+	width: 65%;
+}
+
 #gallery-header {
 	color: #f7f7f7;
 }
