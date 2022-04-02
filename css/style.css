@@ -297,7 +297,7 @@ ul#navigation li .icon {
 .pageheader {
 	background: #f3f3f3;
 	position: relative;
-	padding: 60px 0 45px 0;
+	padding: 20px 0 0px 0;
 }
 
 .pageheader:after {
